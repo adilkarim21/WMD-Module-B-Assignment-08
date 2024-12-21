@@ -1,0 +1,162 @@
+body{
+  margin: 0;
+  background-color: rgb(245, 245, 245);
+  font-family: serif ;
+}
+
+.Main-Navbar-Top{
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Navbar-Div-1{
+  display: flex;
+  column-gap: 10px;
+  align-items: center;
+}
+
+.realme-Navbar-Heading{
+  font-size: 25px;
+}
+
+.Navbar-Div-2{
+  padding-right: 50px;
+}
+
+.First-List{
+  list-style: none;
+  font-weight: bold;
+}
+
+.Second-List{
+  list-style: none;
+  display: flex;
+  column-gap: 30px;
+  font-weight: bold;
+  align-items: center;
+}
+
+.Third-List{
+  list-style: none;
+  display: flex;
+  column-gap: 30px;
+}
+
+.Image{
+  width: 100%;
+}
+
+.Main-Div-Card-Section{
+  margin: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.Main-Card-Section{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  row-gap: 30px;
+}
+
+.Cards{
+  width: 550px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 20px;
+  background-color: rgb(250, 250, 250);
+  display: flex;
+  justify-content: space-between;
+}
+
+.Card-New-Box{
+  background-color: rgb(80, 211, 255);
+  border-radius: 15px;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  color: white;
+}
+
+.Card-Pre-Div{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.Card-Details{
+  color: gray;
+}
+
+.Card-Price{
+  font-weight: bold;
+}
+
+.Card-Image{
+  width: 200px;
+}
+
+.Footer-Section{
+  background-color: rgb(25, 25, 25);
+  color: white;
+  padding: 30px;
+  padding-bottom: 85px;
+}
+
+.Footer-Section2{
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  column-gap: 15px;
+}
+
+.Footer-Lists-Section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Footer-Lists{
+  list-style: none;
+}
+
+.Small-Lines{
+  font-size: 15px;
+  color: grey;
+}
+
+.Footer-Logo-Div{
+  display: flex;
+  column-gap: 15px;
+}
+
+.Footer-Logo{
+  width: 35px;
+  background-color: white;
+}
+
+.Footer-2nd-Section{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Footer-2nd-Section-Part1{
+  display: flex;
+  column-gap: 15px;
+}
+
+.Light-Name{
+  color: gray;
+}
